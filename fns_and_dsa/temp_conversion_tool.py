@@ -1,4 +1,3 @@
-
 FAHRENHEIT_TO_CELSIUS_FACTOR = 5 / 9
 CELSIUS_TO_FAHRENHEIT_FACTOR = 9 / 5
 
@@ -19,6 +18,3 @@ elif unit == "F":
     print(f"{temperature}\u00b0F is {converted}\u00b0C")
 else:
     print("Invalid input. Please enter 'C' for Celsius or 'F' for Fahrenheit.")
-
-
-
